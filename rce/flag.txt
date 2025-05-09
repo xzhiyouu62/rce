@@ -1,0 +1,1 @@
+NHISCCTF{easy_rce_test}
